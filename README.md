@@ -55,12 +55,3 @@ You can find me on:
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
-### ⚙️ &nbsp;Estadisticas de GitHub
-
-<p align="center">
-<a href="https://github.com/JuanVanegas1102">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarrinsonToledo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarrinsonToledo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
